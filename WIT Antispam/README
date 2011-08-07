@@ -1,0 +1,13 @@
+Plugin Name: wit_AntiSpam
+Plugin URI: http://www.worldit.info
+Description: The target of this Anti Spam system is to stop the bot comments. This system insert a new element completely invisible to users, but for bots no. This is happening because bots are trying to fill all visible inputs and the protection system will detected this action. 
+Version: 1.0
+Author: Avadanei Andrei
+Author URI: http://www.worldit.info
+
+
+										######################
+										#      Licence       #
+										######################
+
+This plugin is completely free to use by anyone. If something goes wrong about it , please notify me about the bugs.
